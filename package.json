@@ -1,0 +1,23 @@
+{
+  "name": "ClassTesting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "2para.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/locolucco209/testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/locolucco209/testing/issues"
+  },
+  "homepage": "https://github.com/locolucco209/testing#readme",
+  "dependencies": {
+    "mysql": "^2.15.0"
+  }
+}
